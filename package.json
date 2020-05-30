@@ -2,6 +2,7 @@
   "name": "movie_app_2020",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kimyongyeon.github.io/react_movie_app_2020",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
