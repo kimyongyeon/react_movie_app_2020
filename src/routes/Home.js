@@ -13,7 +13,7 @@ class Home extends Component {
             data: {
                 data: {movies}
             }
-        } = await axios.get('http://yts-proxy.now.sh/list_movies.json')
+        } = await axios.get('https://yts-proxy.now.sh/list_movies.json')
         console.log(movies)
         this.setState({movies, isLoading: false})
     }
